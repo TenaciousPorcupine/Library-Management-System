@@ -12,7 +12,7 @@ public class javaMySqlConnector{
    String username = "root";
    String password;
    {
-       password = "Aryan@2002";
+       password = "password goes here";
    };
    Class.forName(driver);
    
